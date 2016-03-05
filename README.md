@@ -4,6 +4,8 @@ The propose of this project is to enable [Polarimetric](https://en.wikipedia.org
 
 PolSAR images are generally huge (small ones are 11858 X 3300), and normally can't be fully loaded in a single computer. The approach here is to summarize the full image into a smaller one. ZoomImage takes a starting pixel and creates a summarized or complete image from the given coordinates.
 
+This project currently supports Pauli decomposition procesing and its visuazlaition in PNG files.
+
 ## Usage
 
 The images can be downloaded in the following links:
